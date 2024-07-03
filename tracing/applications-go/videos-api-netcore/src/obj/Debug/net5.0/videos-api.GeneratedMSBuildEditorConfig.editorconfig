@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = videos_api
-build_property.ProjectDir = c:\Logismos\MyPrograms\howTo\Kubernetes\marcel-dempers\docker-development-youtube-series\tracing\applications-go\videos-api-netcore\src\
+build_property.ProjectDir = c:\Logismos\MyPrograms\howTo\Kubernetes\marcel-dempers\chrkuznos1-github-repo\marcel-fluxcd\tracing\applications-go\videos-api-netcore\src\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
